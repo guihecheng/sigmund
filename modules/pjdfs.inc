@@ -2484,8 +2484,6 @@ function run_pjdfs
   run_test testprename03 "pjdfs/rename/03"
   run_test testprename04 "pjdfs/rename/04"
   run_test testprename05 "pjdfs/rename/05"
-  run_test testprename09 "pjdfs/rename/09"
-  run_test testprename10 "pjdfs/rename/10"
   run_test testprename12 "pjdfs/rename/12"
   run_test testprename13 "pjdfs/rename/13"
   run_test testprename14 "pjdfs/rename/14"
